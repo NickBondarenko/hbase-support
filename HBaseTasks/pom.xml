@@ -28,7 +28,7 @@
     <project.entry.class>com.hubspot.hbase.tasks.HBaseTaskRunner</project.entry.class>
     <jackson.version>2.1.4</jackson.version>
     <hbase.version>0.94.15-cdh4.6.0</hbase.version>
-    <hadoop.version>2.0.0-cdh4.6.0</hadoop.version>
+    <hadoop.version>3.2.3</hadoop.version>
   </properties>
 
   <groupId>com.hubspot</groupId>
